@@ -4,9 +4,9 @@ import { image } from "../data/data";
 function About() {
   return (
     <div id="about">
-      <h2>About me</h2>
+      <h2>About Me</h2>
       <p>Code is my first wife &#129315;&#129315;&#129315;</p>
-      <img src={image} alt={"a gif of people talking"}/>
+      <img src={image} alt={"I made this"}/>
     </div>
   );
 }
